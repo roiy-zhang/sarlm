@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="32">
+            <item index="0" class="java.lang.String" itemvalue="sklearn" />
+            <item index="1" class="java.lang.String" itemvalue="spodernet" />
+            <item index="2" class="java.lang.String" itemvalue="bashmagic" />
+            <item index="3" class="java.lang.String" itemvalue="tqdm" />
+            <item index="4" class="java.lang.String" itemvalue="gensim" />
+            <item index="5" class="java.lang.String" itemvalue="scipy" />
+            <item index="6" class="java.lang.String" itemvalue="regex" />
+            <item index="7" class="java.lang.String" itemvalue="spacy" />
+            <item index="8" class="java.lang.String" itemvalue="transformers" />
+            <item index="9" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="10" class="java.lang.String" itemvalue="nltk" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="numpy" />
+            <item index="13" class="java.lang.String" itemvalue="jsonlines" />
+            <item index="14" class="java.lang.String" itemvalue="libclang" />
+            <item index="15" class="java.lang.String" itemvalue="tensorflow-estimator" />
+            <item index="16" class="java.lang.String" itemvalue="scikit-learn-intelex" />
+            <item index="17" class="java.lang.String" itemvalue="sets" />
+            <item index="18" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="19" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="20" class="java.lang.String" itemvalue="opt-einsum" />
+            <item index="21" class="java.lang.String" itemvalue="mxnet" />
+            <item index="22" class="java.lang.String" itemvalue="tensorflow-io-gcs-filesystem" />
+            <item index="23" class="java.lang.String" itemvalue="torchvision" />
+            <item index="24" class="java.lang.String" itemvalue="pandas" />
+            <item index="25" class="java.lang.String" itemvalue="utils" />
+            <item index="26" class="java.lang.String" itemvalue="certifi" />
+            <item index="27" class="java.lang.String" itemvalue="torch-tb-profiler" />
+            <item index="28" class="java.lang.String" itemvalue="graphviz" />
+            <item index="29" class="java.lang.String" itemvalue="definitions" />
+            <item index="30" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="31" class="java.lang.String" itemvalue="torchsummary" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
