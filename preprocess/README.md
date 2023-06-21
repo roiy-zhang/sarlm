@@ -4,4 +4,4 @@ This section is used to obtain WikiData and OpenStreetMap data and preprocess th
 run generate.py
 
 
-(Please ensure that you can link and use the link first https://query.wikidata.org/)
+(Please ensure that you can use the link first https://query.wikidata.org/)
